@@ -19,7 +19,7 @@ Learning Goals: ![image](https://github.com/user-attachments/assets/9b3e1542-f07
 I love creating international and Asian-inspired dishes – cooking is my way of bringing a bit of the world to my table.
 Connecting with people from different backgrounds is something I truly enjoy, and I believe that both tech and personal skills play a part in building those connections.
 ### Let's Connect
-Feel free to reach out on <a href="https://www.linkedin.com/in/hao-nguyen-a16856121/">
+Feel free to reach out on <a href="https://www.linkedin.com/in/hao-nguyen-berlin/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20">
 </a>. I’m always open to connecting and sharing ideas!
 
