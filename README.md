@@ -7,28 +7,34 @@ Languages have always been my thing – whether it's speaking them, cooking up c
 I'm deeply immersed in a software engineering bootcamp, learning to write clean code and exploring topics like web development, databases, and API integration. At the same time, I'm in training to become a systematic-integrative coach – one of my creative approaches (or crazy ideas 🤔?!) to combining soft skills with technical abilities. Just like in any perfect recipe – whether for work, relationships, or life in general – the right ingredients make all the difference. In this case, a balanced mix of soft and hard skills is essential.
 ### New to Tech
 I'm new to the tech world and GitHub, so thanks for your patience as I learn and grow. I'm on a journey to build my skills and am excited to see where I'll be in the near future! 😊
-### Tech Stack
-Languages and tools: ![image](https://github.com/user-attachments/assets/0cd2aaf8-627e-4761-88ea-bf5ddaddc3b4) ![image](https://github.com/user-attachments/assets/62bf18ac-bb50-49c1-ace7-9a88615c9afc) ![image](https://github.com/user-attachments/assets/e689619a-28b9-4eca-bca4-d3a2c47cde7c) ![image](https://github.com/user-attachments/assets/22cef6ec-bae3-4859-b717-c8a08e53ff32) ![image](https://github.com/user-attachments/assets/b9bc9933-781c-4dff-8116-bf0f1e1d8ea3) ![image](https://github.com/user-attachments/assets/3f61a70a-9729-4f0c-9f18-0fde50a77d61)
+## Tech Stack
 
+**Languages and tools:**  
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-003366?style=flat)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 
 **AWS Services (already used):**  
-![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ELB](https://img.shields.io/badge/Elastic%20Load%20Balancing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EBS](https://img.shields.io/badge/Amazon%20EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Elastic Load Balancer](https://img.shields.io/badge/ELB-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Amazon EBS](https://img.shields.io/badge/Amazon_EBS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat&logo=amazonaws&logoColor=white)
 
+---
 
+## Learning Goals
 
-
-## 🎯 Learning Goals
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white)
+and database management
 
 **Upcoming:**  
-![Amazon S3](https://img.shields.io/badge/S3-planned-lightgrey?style=for-the-badge&logo=amazonaws)
-![Terraform](https://img.shields.io/badge/Terraform-next_step-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-lightgrey?style=flat&logo=amazonaws&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ### Fun Facts
 I love creating international and Asian-inspired dishes – cooking is my way of bringing a bit of the world to my table.
 Connecting with people from different backgrounds is something I truly enjoy, and I believe that both tech and personal skills play a part in building those connections.
