@@ -11,10 +11,24 @@ I'm new to the tech world and GitHub, so thanks for your patience as I learn and
 Languages and tools: ![image](https://github.com/user-attachments/assets/0cd2aaf8-627e-4761-88ea-bf5ddaddc3b4) ![image](https://github.com/user-attachments/assets/62bf18ac-bb50-49c1-ace7-9a88615c9afc) ![image](https://github.com/user-attachments/assets/e689619a-28b9-4eca-bca4-d3a2c47cde7c) ![image](https://github.com/user-attachments/assets/22cef6ec-bae3-4859-b717-c8a08e53ff32) ![image](https://github.com/user-attachments/assets/b9bc9933-781c-4dff-8116-bf0f1e1d8ea3) ![image](https://github.com/user-attachments/assets/3f61a70a-9729-4f0c-9f18-0fde50a77d61)
 
 
+**AWS Services (already used):**  
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ELB](https://img.shields.io/badge/Elastic%20Load%20Balancing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EBS](https://img.shields.io/badge/Amazon%20EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-Learning Goals: ![image](https://github.com/user-attachments/assets/9b3e1542-f078-4888-96df-5602079ac599)
- ![image](https://github.com/user-attachments/assets/e87f3fe8-6ff3-4389-bb78-bb8913f9d574) ![image](https://github.com/user-attachments/assets/dc1ba151-93b6-4132-b1f1-13ddc45b48f0)
- and database management
+
+
+
+## 🎯 Learning Goals
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Upcoming:**  
+![Amazon S3](https://img.shields.io/badge/S3-planned-lightgrey?style=for-the-badge&logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-next_step-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ### Fun Facts
 I love creating international and Asian-inspired dishes – cooking is my way of bringing a bit of the world to my table.
 Connecting with people from different backgrounds is something I truly enjoy, and I believe that both tech and personal skills play a part in building those connections.
